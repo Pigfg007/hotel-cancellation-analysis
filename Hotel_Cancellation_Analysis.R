@@ -1,5 +1,5 @@
 # =============================================================================
-# AN6003 Analytics Strategy - Team Project
+# Hotel Booking Cancellation Analysis
 # Analysis Script: Predicting Hotel Booking Cancellations
 # Dataset       : hotel_bookings.csv (119,390 bookings, City Hotel & Resort Hotel,
 #                 arrivals Jul-2015 to Aug-2017)
